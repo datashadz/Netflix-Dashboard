@@ -1,0 +1,1 @@
+This project is a fully interactive Excel dashboard built using a Netflix titles dataset containing Movies and TV Shows from around the world. The dashboard provides insights into content trends, ratings, genres, directors, and country-wise contributions using dynamic visuals and slicers.
